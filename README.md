@@ -13,7 +13,7 @@
 
 #### 游戏界面
 
-## ![image](https://github.com/xi029/CrystalGuard/blob/main/img/image.png)
+## ![image](img/image.png)
 
 ## 2. 系统要求 🖥️
 
