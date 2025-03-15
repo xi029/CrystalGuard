@@ -35,7 +35,9 @@
 └── requirements.txt          # 依赖库列表
 ```
 
----
+##### 游戏流程
+
+## ![image](https://github.com/xi029/CrystalGuard/blob/main/img/image0.png)
 
 ## 4. 安装与运行 🚀
 
